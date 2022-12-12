@@ -1,0 +1,15 @@
+{
+  "name": "小祁同学的博客",
+  "short_name": "小祁同学",
+  "start_url": "https://www.goodluckweb.top/",
+  "display": "standalone",
+  "background_color": "#fef4eb",
+  "description": "今天是充满希望的一天~",
+  "orientation": "portrait-primary",
+  "theme_color": "#fef4eb",
+  "icons": [{
+      "src": "img/huojian.png",
+      "sizes": "285x285",
+      "type": "image/png"
+  }]
+}
